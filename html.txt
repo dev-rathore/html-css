@@ -1,0 +1,10 @@
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+* HTML Unicode UTF-8 Miscellaneous Symbols
+
+* Font Awesome
+<script defer src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
+
+https://michalsnik.github.io/aos/
